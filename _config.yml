@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Arjun Singh Ahluwalia 
+title: Arjun Singh Ahluwalia
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -34,9 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I believe mankind's war is no longer restricted to bloodshed. The act of transgression has now shifted to the Fifth Domain.
-I am one of the select individuals that is inclined towards the construct of Cyber Security.
-Exchanging ideas to broaden my perspective and fine-tuning my skills at an early age is what I am looking forward to.
+about_me_description: I believe mankind's war is no longer restricted to bloodshed. The act of transgression has now shifted to the Fifth Domain. I am one of the select individuals that is inclined towards the construct of Cyber Security. Exchanging ideas to broaden my perspective and fine-tuning my skills at an early age is what I am looking forward to
 
 # SKILLS SECTION
 # show_skills_card:
