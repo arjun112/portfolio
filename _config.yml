@@ -14,7 +14,7 @@ baseurl: "/portfolio"
 username: 0xph4r40h
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Penetration tester, Hack The Box Player, Bug Hunter
+typing_text: Penetration Tester, Hack The Box Player, Bug Hunter
 # email: Your E-Mail address for the email button.
 email: arjunaluwalia@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I believe mankind's war is no longer restricted to bloodshed. The act of transgression has now shifted to the Fifth Domain. I am one of the select individuals that is inclined towards the construct of Cyber Security. Exchanging ideas to broaden my perspective and fine-tuning my skills at an early age is what I am looking forward to
+about_me_description: I am one of the select individuals that is inclined towards the construct of Cyber Security. Exchanging ideas to broaden my perspective and fine-tuning my skills at an early age is what I am looking forward to.
 
 # SKILLS SECTION
 # show_skills_card:
