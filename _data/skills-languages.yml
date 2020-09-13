@@ -6,14 +6,14 @@
 #   weight: 5
 
 - name: Python
-  weight: 2
+  weight: 3
 
 - name: HTML5
-  weight: 2
+  weight: 1
 
 - name: CSS3
-  weight: 2
+  weight: 1
 
 
 - name: C++
-  weight: 2
+  weight: 4

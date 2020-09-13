@@ -13,3 +13,9 @@
 
 - name: Chrome DevTools
   weight: 2
+
+- name: Burpsuite
+  weight: 4
+
+- name: Nmap
+  weight: 5

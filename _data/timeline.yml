@@ -23,8 +23,20 @@
   subtitle: Btech. Computer Science specialization in Cyber Security and Forensics
   timeline-side: right
 
-- title: UPES ACM
+- title: UPES ACM Student Chapter
   title-url: https://upesacm.org/
   date: April 2020 - Present
   subtitle: Editorial Head
   timeline-side: left
+
+  - title: UPES Cyber Sentinel Student Chapter
+    title-url: https://cybersentinel.in/
+    date: September 2020 - Present
+    subtitle: Technical Core Committee Member
+    timeline-side: right
+
+  - title: UPES CSI Student Chapter
+    title-url: https://www.upescsi.in/
+    date: September 2019 - February 2020
+    subtitle: Public Relations Representative
+    timeline-side: left
