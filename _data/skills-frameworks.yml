@@ -4,9 +4,3 @@
 # Example of a framework
 # - name: Framework
 #   weight: 5
-- name: Linux
-  weight: 4
-
-- name: Windows
-  weight: 3
-   
